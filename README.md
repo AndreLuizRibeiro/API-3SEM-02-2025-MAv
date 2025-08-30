@@ -4,25 +4,28 @@ Este repositório contém o desenvolvimento completo do **Projeto Integrador** r
 
 ## 📌 Objetivo do Projeto
 
-> [Descreva aqui de forma resumida o objetivo do projeto integrador. Exemplo:]
-
-Desenvolver uma análise técnica e documental do sistema elétrico da aeronave EMB-120 Brasília, incluindo levantamento de componentes, verificação do estado físico da aeronave e análise de manuais.
+Planejar, desenvolver e entregar um planador elastico funcional que atenda os requisitos do cliente, professor Nilo.
 
 ## 🗓️ Cronograma de Desenvolvimento
 
 Sprint | Previsão | Status| 
 |------|--------|------|
-|Kick Off | dd/mm/aaaa | concluido| 
-|01 | dd/mm/aaaa | concluido|
-|02|  dd/mm/aaaa| em progresso |
-|03| dd/mm/aaaa | a fazer|
-|Feira de Soluções|dd/mm/aaaa |a fazer |
+|Kick Off | 28/08/2025 | concluido | 
+|01 | 18/09/2025 | em progresso |
+|02|  02/10/2025 | a fazer |
+|03| 23/10/2025 | a fazer |
+|04| 13/11/2025 | a fazer |
+|Feira de Soluções| 04/12/2025 |a fazer |
 
 ## 🧑‍💻 Integrantes do Projeto
 
-- **Andre Luiz Ribeiro**  
-- [Outros colegas, se aplicável]
-
+- **Alvaro**
+- **Andre Luiz Ribeiro Antunes**  
+- **Lucas**
+- **Luis**
+- **Leonardo**
+- **Paulo**
+  
 ## Funcionalidades e Demonstrações das Sprints
 
 ### Sprint 1
